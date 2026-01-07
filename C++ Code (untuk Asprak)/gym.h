@@ -69,7 +69,6 @@ adrMember findMin(adrMember root);
 adrMember deleteNode(adrMember root, string nama);
 
 // Fungsi Member
-void lihatAllMember(adrMember root);
 adrMember createNode(infoMember info);
 void insertNode(adrMember &root, adrMember newNode);
 adrMember findNode(adrMember root, string nama);
@@ -118,7 +117,6 @@ adrRelasi createRelasi(string namaMember, string namaPaket, string kesulitanPake
 void insertRelasi(adrRelasi &head, adrRelasi newRelasi);
 bool isRelasiExists(adrRelasi head, string namaMember, string namaPaket, string kesulitan);
 void deleteRelasi(adrRelasi &head, string namaMember, string namaPaket, string kesulitan);
-adrRelasi findRelasiByMember(adrRelasi head, string namaMember);
 
 // Menu Relasi
 void menuRelasi(adrRelasi &headRelasi, adrMember rootMember, adrPaket headPaket);
