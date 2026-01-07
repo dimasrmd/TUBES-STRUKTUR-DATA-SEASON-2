@@ -517,12 +517,12 @@ void lihatAllAssignments(adrRelasi headRelasi);
 
 
 **Isi Video:**
-1. 00:00 Intro & Penjelasan Judul (0:00)
-2. 00:56 Penjelasan Konsep BST (Member) (0:56 - 2:29)
-3. 02:29 Penjelasan Konsep MLL (Paket Latihan) (2:29 - 4:08)
-4. 04:08 Demo Running Program (4:08 - 18:43)
-5. 18:43 Pembagian tugas (18:43 - 21:05)
-6. 21:05 Penutup (21:05)
+1. Intro & Penjelasan Judul (0:00)
+2. Penjelasan Konsep BST (Member) (0:56 - 2:29)
+3. Penjelasan Konsep MLL (Paket Latihan) (2:29 - 4:08)
+4. Demo Running Program (4:08 - 18:43)
+5. Pembagian tugas (18:43 - 21:05)
+6. Penutup (21:05)
 
 ---
 
